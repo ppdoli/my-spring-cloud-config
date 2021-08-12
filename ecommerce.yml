@@ -1,6 +1,6 @@
 token:
   expirtation_time: 864000000
-  secret: user_token
+  secret: user_token#2
 
 gateway:
-  ip: 127.0.0.1
+  ip: 1.2.3.4
